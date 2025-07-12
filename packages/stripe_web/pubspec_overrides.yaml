@@ -2,5 +2,5 @@
 dependency_overrides:
   stripe_js:
     path: ../stripe_js
-  stripe_platform_interface:
-    path: ../stripe_platform_interface
+  # stripe_platform_interface:
+  #   path: ../stripe_platform_interface

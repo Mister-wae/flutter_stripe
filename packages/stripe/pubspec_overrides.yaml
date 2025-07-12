@@ -4,5 +4,5 @@ dependency_overrides:
     path: ../stripe_android
   stripe_ios:
     path: ../stripe_ios
-  stripe_platform_interface:
-    path: ../stripe_platform_interface
+  # stripe_platform_interface:
+  #   path: ../stripe_platform_interface
